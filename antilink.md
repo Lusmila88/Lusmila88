@@ -1,3 +1,3 @@
 .antilink
 
-_Los linos están prohibidos, fuera de aquí, perdedor_
+_Los links están prohibidos, fuera de aquí, perdedor_
